@@ -1,9 +1,9 @@
 {
-  "name":"cpxondo/PluginWPTest",
-  "type":"wordpress-plugin",
+  "name":"cpxondo/ThemeWPTest",
+  "type":"wordpress-theme",
   "license":"OSL-3.0",
   "homepage":"localhost",
-  "description":"LayerSlider plugin for wordpress",
+  "description":"Max-core theme for wordpress",
   "require": {
     "composer/installers": "v1.0.22"
   }
