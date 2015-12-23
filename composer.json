@@ -1,0 +1,10 @@
+{
+  "name":"cpxondo/PluginWPTest",
+  "type":"wordpress-plugin",
+  "license":"OSL-3.0",
+  "homepage":"localhost",
+  "description":"LayerSlider plugin for wordpress",
+  "require": {
+    "composer/installers": "v1.0.22"
+  }
+}
